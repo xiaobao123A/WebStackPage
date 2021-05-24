@@ -63,7 +63,7 @@ content:
     - name: 学习教程
       sites:
         - name: 百度SEO优化
-          description:百度SEO优化视频教程
+          description: 百度SEO优化视频教程
           url: https://ke.seowhy.com/course/5
         - name: 设计周刊
           description: 最新设计资讯（每天更新）
